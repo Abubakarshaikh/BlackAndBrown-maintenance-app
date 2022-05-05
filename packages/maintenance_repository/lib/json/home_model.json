@@ -1,0 +1,37 @@
+{
+    "full_name": "",
+    "phone_number": "",
+    "email": "",
+    "id": "",
+    "initial_time": 0,
+    "initial_coordinate": "",
+    "selected_branch": "Select Branch",
+    "selected_department": "Select Department",
+    "selected_maintenance": "Select Maintenance",
+    "branches": [
+        "Autobahn",
+        "Garrison Qasim Chowk",
+        "Gymkhana",
+        "Hirabad",
+        "Saddar 2",
+        "Hairder Chowk",
+        "Latifabad Unit 7",
+        "Naseem Nagar",
+        "Autobahn 2",
+        "Alamdar Chowk",
+        "Wadhu Wah",
+        "Main qasimabad",
+        "Saddar",
+        "Latifabad Unit 9",
+        "Afandi Town"
+    ],
+    "departments": [
+        "Maintenance",
+        "Branches"
+    ],
+    "maintenance": [
+        "Corrective Maintenance",
+        "Preventive Maintenance",
+        "Hourly Checklist"
+    ]
+}

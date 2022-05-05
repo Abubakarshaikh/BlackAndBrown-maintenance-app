@@ -1,0 +1,1178 @@
+[
+    {
+        "title": "Exterior",
+        "status": false,
+        "is_expanded": false,
+        "check_list_nested": [
+            {
+                "title": "Parking lot Clean",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Singnature/Logo board",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Outside Glass & Main Door",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Plants Pots / Stone",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Door steps / Area clean",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Genset condition / locked / Fuel",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Back door check / Locked",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "SS Box status",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Gurad presence & Grooming",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Front Area",
+        "status": false,
+        "is_expanded": false,
+        "check_list_nested": [
+            {
+                "title": "Inseck killer is working",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "IR record / Assigned for Temp",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Promotion Standy in Display",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Lobby/GRO area",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "POS & Forward counter are working",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Weight Machine is working",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Birthday Wall",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Cash counter / Change avalible / Money Detecter working",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Sale Counters / Chillers / Fully loaded",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Menu / Promotion Execution",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Section wise Clenaning",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Dummy Counter & Dummy conditions",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Visi coolers (Gaskets)",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Lights",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Micro Oven / Rosted in working good condition",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Disignated products on shelves (Snacks, Bread, Rusk)",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "LED Display",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Music being Play",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "SS Box OUT DOOR Status",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "SS Box indoor Status",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Products",
+        "status": false,
+        "is_expanded": false,
+        "check_list_nested": [
+            {
+                "title": "Beverages Best before",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Bread/Rusk/Snacks/ Best before",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Product & Chillers Temparature",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "FIFO & Tagging",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Beverages Best before",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Biscuits curmsbs",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Product Avalibility",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Product Appearance",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Customize orders",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Branch Temperature",
+        "status": false,
+        "is_expanded": false,
+        "check_list_nested": [
+            {
+                "title": "Fresh Cake Chiller",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Café Cake Chillers",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Dry Cake Chiller",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Bombay Cake Chiller",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Backup Chillers",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Room Temperature",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Sales",
+        "status": false,
+        "is_expanded": false,
+        "check_list_nested": [
+            {
+                "title": "Sale Targets",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Hourly sales",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Product wise sale analysis",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Given task of product to sales Team",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Tablet Phone in Good condition",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Branch Mobile in Good condition",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Branch PTCL is working & in Good condition",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Innovatives Ideas record and implementation",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Banking / Deposite",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Store",
+        "status": false,
+        "is_expanded": false,
+        "check_list_nested": [
+            {
+                "title": "Receiving Practices / Record",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Audit related documentation",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "All invoices received & post",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Sanitizer, Gloves, Mask & Hair net avalibility",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Found any over & under ordering",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "UPS in good working",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Foot operated Dust bin avalible",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Audit reconciliation & Return amount %age",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "CCTV cameras working /LCD",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Bar code & Manager printer working",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Staff",
+        "status": false,
+        "is_expanded": false,
+        "check_list_nested": [
+            {
+                "title": "Staff Grooming/Personal hygine",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Medical Certificate",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Health & Safety Awareness",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "First Aid Box presents",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Staff Training status",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Water Dispensor / Can in good condition",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Supply Deliveries",
+        "status": false,
+        "is_expanded": false,
+        "check_list_nested": [
+            {
+                "title": "Bombay Cakes",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Fresh Cakes",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Café Cakes",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Biscuits and Cross",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Hyderabadi Cakes",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Sweets",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Snacks",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Pattis",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Bread",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Rusk",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            },
+            {
+                "title": "Dry Cakes",
+                "status": false,
+                "select_chips": [
+                    {
+                        "title": "yes",
+                        "status": false
+                    },
+                    {
+                        "title": "no",
+                        "status": false
+                    }
+                ]
+            }
+        ]
+    }
+]

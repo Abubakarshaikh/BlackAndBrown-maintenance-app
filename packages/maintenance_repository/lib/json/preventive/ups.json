@@ -1,0 +1,16 @@
+[
+    {
+        "workOrderId":"10",
+        "name":"Ups",
+        "works":[
+            {
+                "title":"wiring condition",
+                "status":"good"
+            },
+            {
+                "title":"load",
+                "status":"low"
+            }
+        ]
+    }
+]

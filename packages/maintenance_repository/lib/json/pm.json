@@ -1,0 +1,1137 @@
+[
+  {
+    "title": "Ups",
+    "status": false,
+    "is_expanded": false,
+    "check_list_nested": [
+      {
+        "title": "wiring condition",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "load",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "low",
+            "status": false
+          },
+          {
+            "title": "normal",
+            "status": false
+          },
+          {
+            "title": "high",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "error",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "yes",
+            "status": false
+          },
+          {
+            "title": "no",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "battery water",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "low",
+            "status": false
+          },
+          {
+            "title": "empty",
+            "status": false
+          },
+          {
+            "title": "medium",
+            "status": false
+          },
+          {
+            "title": "full",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "battery terminal",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "battery charging",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "low",
+            "status": false
+          },
+          {
+            "title": "normal",
+            "status": false
+          },
+          {
+            "title": "empty",
+            "status": false
+          },
+          {
+            "title": "high",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "over all condition",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Generator",
+    "status": false,
+    "is_expanded": false,
+    "check_list_nested": [
+      {
+        "title": "battery water",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "empty",
+            "status": false
+          },
+          {
+            "title": "low",
+            "status": false
+          },
+          {
+            "title": "normal",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "battery charging",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "empty",
+            "status": false
+          },
+          {
+            "title": "normal",
+            "status": false
+          },
+          {
+            "title": "high",
+            "status": false
+          },
+          {
+            "title": "low",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "battery terminal",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "fuel",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "1.6",
+            "status": false
+          },
+          {
+            "title": "empty",
+            "status": false
+          },
+          {
+            "title": "low",
+            "status": false
+          },
+          {
+            "title": "full",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "radiator Water",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "full",
+            "status": false
+          },
+          {
+            "title": "low",
+            "status": false
+          },
+          {
+            "title": "empty",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "mobil oil",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "low",
+            "status": false
+          },
+          {
+            "title": "normal",
+            "status": false
+          },
+          {
+            "title": "empty",
+            "status": false
+          },
+          {
+            "title": "full",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "ignition self",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "cleaning inside outside",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "phase voltage check",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "211",
+            "status": false
+          },
+          {
+            "title": "normal",
+            "status": false
+          },
+          {
+            "title": "low",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "generator meter reading",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "234",
+            "status": false
+          },
+          {
+            "title": "low",
+            "status": false
+          },
+          {
+            "title": "normal",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "wapda meter reading",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "345",
+            "status": false
+          },
+          {
+            "title": "normal",
+            "status": false
+          },
+          {
+            "title": "low",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "over all condition",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Glass work and Branch cleaning",
+    "status": false,
+    "is_expanded": false,
+    "check_list_nested": [
+      {
+        "title": "windows",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "clean",
+            "status": false
+          },
+          {
+            "title": "not clean",
+            "status": false
+          },
+          {
+            "title": "normal",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "main door",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "clean",
+            "status": false
+          },
+          {
+            "title": "not clean",
+            "status": false
+          },
+          {
+            "title": "normal",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "biscuits section glass",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "clean",
+            "status": false
+          },
+          {
+            "title": "not clean",
+            "status": false
+          },
+          {
+            "title": "normal",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "biscuits section railing door",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "clean",
+            "status": false
+          },
+          {
+            "title": "not clean",
+            "status": false
+          },
+          {
+            "title": "normal",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "inside cleaning",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "clean",
+            "status": false
+          },
+          {
+            "title": "not clean",
+            "status": false
+          },
+          {
+            "title": "normal",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "outside cleaning",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "clean",
+            "status": false
+          },
+          {
+            "title": "normal",
+            "status": false
+          },
+          {
+            "title": "not clean",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "bathroom",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "clean",
+            "status": false
+          },
+          {
+            "title": "not clean",
+            "status": false
+          },
+          {
+            "title": "normal",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "generator area",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "clean",
+            "status": false
+          },
+          {
+            "title": "not clean",
+            "status": false
+          },
+          {
+            "title": "normal",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "ceiling",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "clean",
+            "status": false
+          },
+          {
+            "title": "not clean",
+            "status": false
+          },
+          {
+            "title": "normal",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "palmets",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "clean",
+            "status": false
+          },
+          {
+            "title": "not clean",
+            "status": false
+          },
+          {
+            "title": "normal",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "over all condition",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Chillers",
+    "status": false,
+    "is_expanded": false,
+    "check_list_nested": [
+      {
+        "title": "temperature check",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "23",
+            "status": false
+          },
+          {
+            "title": "normal",
+            "status": false
+          },
+          {
+            "title": "low",
+            "status": false
+          },
+          {
+            "title": "high",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "leakage",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "yes",
+            "status": false
+          },
+          {
+            "title": "no",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "glass shelves",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "top glasses",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "railing door",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "drain line",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "leaning",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "over all condition",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Civil Work",
+    "status": false,
+    "is_expanded": false,
+    "check_list_nested": [
+      {
+        "title": "wooden counter check",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "wood border",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "storage counter",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "wall and ceiling",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "paint work",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "tiles",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "marbles",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "pavers",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "over all condition",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Other Accessories",
+    "status": false,
+    "is_expanded": false,
+    "check_list_nested": [
+      {
+        "title": "air cutter",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "insect killer",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "micowave oven",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "led tv",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "water motor pump",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "bathroom fixture/tank",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "over all condition",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Air Conditioner",
+    "status": false,
+    "is_expanded": false,
+    "check_list_nested": [
+      {
+        "title": "temperature check",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "7cm",
+            "status": false
+          },
+          {
+            "title": "normal",
+            "status": false
+          },
+          {
+            "title": "high",
+            "status": false
+          },
+          {
+            "title": "low",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "error",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "yes",
+            "status": false
+          },
+          {
+            "title": "no",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "filter",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "drain line",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "cleaning",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "yes",
+            "status": false
+          },
+          {
+            "title": "no",
+            "status": false
+          }
+        ]
+      },
+      {
+        "title": "over all condition",
+        "status": false,
+        "select_chips": [
+          {
+            "title": "good",
+            "status": false
+          },
+          {
+            "title": "bad",
+            "status": false
+          },
+          {
+            "title": "best",
+            "status": false
+          }
+        ]
+      }
+    ]
+  }
+]

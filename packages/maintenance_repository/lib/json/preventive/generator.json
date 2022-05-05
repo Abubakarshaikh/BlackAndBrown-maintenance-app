@@ -1,0 +1,16 @@
+[
+    {
+        "workOrderId":"10",
+        "name":"Generator",
+        "works":[
+            {
+                "title":"battery water",
+                "status":"empty"
+            },
+            {
+                "title":"battery charging",
+                "status":"normal"
+            }
+        ]
+    }
+]

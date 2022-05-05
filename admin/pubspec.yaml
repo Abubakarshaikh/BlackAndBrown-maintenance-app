@@ -1,0 +1,50 @@
+name: admin
+description: A new Flutter project.
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  excel: 2.0.0-null-safety-3
+  path_provider: ^2.0.8
+  open_file: ^3.2.1
+  equatable: ^2.0.3
+  flutter_bloc: ^8.0.0
+  firebase_core: ^1.10.6
+  flow_builder: ^0.0.6
+  font_awesome_flutter: ^9.2.0
+  very_good_analysis: ^2.4.0
+  intl: ^0.17.0
+  carrying_ui:
+    path: ../packages/carrying_ui
+  maintenance_repository:
+    path: ../packages/maintenance_repository
+  authentication_repository:
+    path: ../packages/authentication_repository
+  my_widgets:
+    path: ../packages/my_widgets
+  form_inputs:
+    path: ../packages/form_inputs
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/work_order.json
